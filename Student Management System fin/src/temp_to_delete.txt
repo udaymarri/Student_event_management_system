@@ -1,0 +1,1 @@
+This file is created to help clean up the temporary AdminDashboard_fixed.tsx file that was created during the fix.
