@@ -65,13 +65,6 @@ npm run dev
 ```
 Now open [http://localhost:5173](http://localhost:5173) in your browser.  
 
----
-
-## 📸 Screenshots
-(Add the screenshots you uploaded on LinkedIn here, for visual clarity.)  
-
----
-
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.  
 
